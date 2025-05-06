@@ -28,7 +28,16 @@ Next state of D flip-flop is always equal to data input, D for every positive tr
 
 **Procedure**
 
-/* write all the steps invloved */
+step1: Define Inputs and Output
+
+step2: Use an always Block with negedge 
+
+step3: Assign Output Inside the Block
+
+step4: Store the Value
+
+step5: End the Block
+
 
 **PROGRAM**
 
